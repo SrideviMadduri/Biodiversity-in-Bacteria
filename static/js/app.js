@@ -53,7 +53,7 @@ function optionChanged(x){
 var data1 = [trace1];
 
 var layout = {
-  title: 'Marker Size and Color',
+  // title: 'Marker Size and Color',
   showlegend: false,
   height: 600,
   width: 800
