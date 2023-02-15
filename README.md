@@ -1,4 +1,4 @@
-# belly-button-challenge
+# Biodiversity in Bacteria
  This project creates a dashboard to display biodiversity in bacteria of the belly button.
 
 ## Programming Languages
